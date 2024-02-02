@@ -12,7 +12,7 @@ Projeto feito a partir das aulas do curso de JavaScript ES6 promovido pela Origa
 </p>
 
 <p align="center">
-  <img alt="License" src="https://github.com/92d58918-ce12-4450-a79b-16fee1c7bcc8">
+  <img alt="License" src="https://github.dev/galmeidabp/animaisfantasticos-origamid/blob/main/img/printtela.png">
 </p>
 
 ## 🚀 Ferramentas
