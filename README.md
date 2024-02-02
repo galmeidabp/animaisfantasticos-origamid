@@ -26,6 +26,7 @@ Esse projeto foi desenvolvido com as seguintes ferramentas:
 ## 💻 Projeto
 
 "Animais Fantásticos" é um site dedicado à exploração e descrição de criaturas do reino animal. Neste portal, os amantes da fauna têm a oportunidade de acessar mais informações a respeito de seres misteriosos e fascinantes. 
+
 https://www.origamid.com/projetos/animais-fantasticos/
 
 ## ✏️ Aprendizado
